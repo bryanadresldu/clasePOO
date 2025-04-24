@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner leer=new Scanner(System.in);
-
+        //cambio1
         //Solicitar los datos por teclado
         System.out.println("Ingrese los datos de 3 empleados:");
         //Empleado 1
